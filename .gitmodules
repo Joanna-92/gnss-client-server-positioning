@@ -1,0 +1,6 @@
+[submodule "ClientApp"]
+	path = ClientApp
+	url = https://github.com/Joanna-92/gnss-client
+[submodule "Server_module"]
+	path = Server
+	url = https://github.com/Joanna-92/gnss-server
